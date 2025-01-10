@@ -1,0 +1,4 @@
+pip install matplotlib seaborn
+pip install streamlit mysql-connector-python pandas plotly
+pip install mysql-connector-python pandas
+pip install requests mysql-connector-python pandas streamlit

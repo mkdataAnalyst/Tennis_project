@@ -1,0 +1,3 @@
+python -m venv tennis_env
+source tennis_env/bin/activate  # On Linux/Mac
+tennis_env\Scripts\activate    # On Windows
