@@ -126,7 +126,6 @@ Integrate real-time database updates for dynamic dashboards.
 Manoj Moorthy
 Data Analyst & Developer
 
-Let me know if you'd like to modify or extend this!
 
 
 
